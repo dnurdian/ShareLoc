@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ShareLoc</string>
+    <string name="google_maps_api_key">AIzaSyDTzOc9m1ilpMS8ws6ygPqpvwwcDgMdg-M</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Maps!</string>
+    <string name="slide_1_desc">The easiest way to maping your location!</string>
+
+    <string name="slide_2_title">Share Maps</string>
+    <string name="slide_2_desc">Share your location to friends!</string>
+
+    <string name="slide_3_title">Get Maps</string>
+    <string name="slide_3_desc">Get Location from your firends!</string>
+
+</resources>
